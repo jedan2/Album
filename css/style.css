@@ -1,0 +1,36 @@
+.icon{
+	margin-right: 10px;
+}
+.album{
+	font-size: 20px;
+    font-weight: 700;
+}
+
+
+
+
+.content{
+	text-align: center;
+}
+.content h1{
+	color: #54505dc7;
+    font-size: 46px;
+    text-transform: capitalize;
+    font-weight: 300;
+}
+.content p{
+	font-size: 20px;
+    color: #a29c9d;
+    font-weight: 300;
+}
+.bt{}
+
+.text{
+	float: right;
+}
+section{
+	background-color: #8c8f920f;
+}
+.back{
+	float: right;
+}
